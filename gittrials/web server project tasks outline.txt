@@ -1,0 +1,8 @@
+--TASKS--
+*Research On GO
+*Develop a simple Web Server
+*Due Tuesday Evening
+
+--SUB TASKS--
+*Upload source code to GitHub
+*Add Kwaw to repo
